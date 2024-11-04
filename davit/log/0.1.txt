@@ -1,0 +1,93 @@
+Set5
+psnr:34.18
+ssim:0.9228
+mean_times:0.75
+
+Set11
+psnr:31.36
+ssim:0.8976
+mean_times:0.49
+
+Set14
+psnr:30.86
+ssim:0.8684
+mean_times:0.64
+
+964492total parameters.
+Set5
+psnr:34.14
+ssim:0.9226
+mean_times:0.72
+
+Set11
+psnr:31.36
+ssim:0.8976
+mean_times:0.53
+
+Set5
+psnr:34.16
+ssim:0.9223
+mean_times:0.6
+
+Set11
+psnr:31.37
+ssim:0.898
+mean_times:0.48
+
+Set14
+psnr:30.86
+ssim:0.8684
+mean_times:0.72
+
+964492total parameters.
+Set5
+psnr:34.15
+ssim:0.9225
+mean_times:0.63
+
+Set5
+psnr:34.09
+ssim:0.9217
+mean_times:0.63
+
+964492total parameters.
+964492total parameters.
+964492total parameters.
+964492total parameters.
+964492total parameters.
+Set11
+psnr:30.12
+ssim:0.887
+mean_times:2.27
+
+964492total parameters.
+Set11
+psnr:30.13
+ssim:0.8868
+mean_times:4.58
+
+964492total parameters.
+Set11
+psnr:30.1
+ssim:0.8866
+mean_times:1.85
+
+964492total parameters.
+964492total parameters.
+964492total parameters.
+964492total parameters.
+964492total parameters.
+964492total parameters.
+964492total parameters.
+BSDS100
+psnr:29.19
+ssim:0.7972
+mean_times:2.72
+
+964492total parameters.
+BSDS100
+psnr:6.88
+ssim:0.0009
+mean_times:0.58
+
+964488total parameters.
